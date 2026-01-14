@@ -23,43 +23,43 @@ I also participated in the configuration of the Salesforce platform, the design 
 ![IS Architecture](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/11_IS_ARCHITECTURE/EKOVYA_SIGMA360_SAF_POST_WORK_IS_ARCHITECTURE_23Q4_V1.0.jpg)
 
 <h2>Project Main Requirements</h2>
-![Project-Requirements](20_SCREENSHOTS/requirements_review.png)
+![Project Requirements](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/requirements_review.png)
 
 <h2>Return on Investment calculation</h2>
-![ROI](20_SCREENSHOTS/roi.png)
+![ROI](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/roi.png)
 
 <h2>Planning and Cost Control</h2>
-![Planning and cost control](20_SCREENSHOTS/planning_and_cost_control.png)
+![Planning and cost control](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/planning_and_cost_control.png)
 
 <h2>Risk Matrix</h2>
-![Risk Matrix](20_SCREENSHOTS/risk_matrix.png)
+![Risk Matrix](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/risk_matrix.png)
 
 <h2>Progress Agreement Convention</h2>
-![Progress Agreement Convention](20_SCREENSHOTS/progress_agreement_convention.png)
+![Progress Agreement Convention](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/progress_agreement_convention.png)
 
 <h2>Naming Convention</h2>
-![Naming Convention](20_SCREENSHOTS/naming_convention.png)
+![Naming Convention](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/naming_convention.png)
 
 <h2>Business Processes</h2>
 <strong>Customer Journey</strong>
-![Customer Journey](14_BUSINESS PROCESSES/S360-SAF-BUSINESS_PROCESS_CUSTOMER_JOURNEY-23-Q4-OPEN.V1.0.png)
+![Customer Journey](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/14_BUSINESS_PROCESSES/S360-SAF-BUSINESS_PROCESS_CUSTOMER_JOURNEY-23-Q4-OPEN.V1.0.png)
 
 <strong>Lead to Opportunity</strong>
-![Lead to Opportunity](14_BUSINESS PROCESSES/BP Lead to Opportunity V1.0.png)
+![Lead to Opportunity](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/14_BUSINESS_PROCESSES/BP_Lead_to_Opportunity_V1.0.png)
 
 <strong>Opportunity to Customer</strong>
-![Opportunity to Customer](14_BUSINESS PROCESSES/BP Opportunity to Customer V1.0.png)
+![Opportunity to Customer](14_BUSINESS_PROCESSES/BP_Opportunity_to_Customer_V1.0.png)
 
 <strong>Sales to Service</strong>
-![Sales to Service](14_BUSINESS PROCESSES/BP Sales to Service.drawio V1.0.png)
+![Sales to Service](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/14_BUSINESS_PROCESSES/BP_Sales_to_Service.drawio_V1.0.png)
 
 <strong>Mailing Campaign</strong>
-![Mailing Campaign](14_BUSINESS PROCESSES/BP Mailing Campaign V1.0.png)
+![Mailing Campaign](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/14_BUSINESS_PROCESSES/BP_Mailing_Campaign_V1.0.png)
 
 <h2>Website Mockup</h2>
 The website mockup has been designed with Figma, a Saas graphic design software allowing multiple users to work together at the same time, which is useful for collaborative design tasks.
 <strong>Website Architecture</strong>
-![Website Architecture](13_WEBSITE MOCK UP/S360-SAF-WEBSITE_MOCK_UP-23Q3-OPEN-V1.0.png)
+![Website Architecture](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/13_WEBSITE_MOCK_UP/S360-SAF-WEBSITE_MOCK_UP-23Q3-OPEN-V1.0.png)
 
 <strong>Product Page Architecture</strong>
-![Website Architecture](13_WEBSITE MOCK UP/S360-SAF-PRODUCT_SHEET_MOCK_UP-23Q3-OPEN-V2.0.png)
+![Website Architecture](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/13_WEBSITE_MOCK_UP/S360-SAF-PRODUCT_SHEET_MOCK_UP-23Q3-OPEN-V2.0.png)
