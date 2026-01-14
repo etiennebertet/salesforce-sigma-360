@@ -12,9 +12,6 @@ I also participated in the configuration of the Salesforce platform, the design 
 <h2>Project organigram</h2>
 ![Project Organigram](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/organigramme.png?raw=true)
 
-## Image Test Section
-
-### Test 1: Raw URL
 ![Test 1](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/organigramme.png)
 
 
