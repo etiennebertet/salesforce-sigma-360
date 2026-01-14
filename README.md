@@ -23,7 +23,7 @@ I also participated in the configuration of the Salesforce platform, the design 
 ![Project Requirements](20_SCREENSHOTS/requirements_review.png)
 
 <h2>Return on Investment calculation</h2>
-![ROI](20_SCREENSHOTS/20_SCREENSHOTS/roi.png)
+![ROI](20_SCREENSHOTS/roi.png)
 
 <h2>Planning and Cost Control</h2>
 ![Planning and cost control](20_SCREENSHOTS/planning_and_cost_control.png)
