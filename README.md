@@ -69,5 +69,5 @@ The website mockup has been designed with Figma, a Saas graphic design software 
 <strong>Website Architecture</strong>
 ![Website Architecture](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/13_WEBSITE_MOCK_UP/S360-SAF-WEBSITE_MOCK_UP-23Q3-OPEN-V1.0.png)
 
-<strong>Product Page Architecture</strong>
+<strong>Product Page Architecture + Benchmark</strong>
 ![Website Architecture](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/13_WEBSITE_MOCK_UP/S360-SAF-PRODUCT_SHEET_MOCK_UP-23Q3-OPEN-V2.0.png)
