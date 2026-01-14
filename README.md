@@ -17,10 +17,10 @@ I also participated in the configuration of the Salesforce platform, the design 
 <h2>Information System Architecture</h2>
 <strong>The ultimate "Nice to Have" architecture:</strong>
 
-![IS Architecture](11_IS ARCHITECTURE/EKOVYA_SIGMA360_SAF_SI_ARCHITECTURE_23Q4_V1.0.jpg)
+![IS-Architecture](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/11_IS ARCHITECTURE/EKOVYA_SIGMA360_SAF_SI_ARCHITECTURE_23Q4_V1.0.jpg)
 
 <strong>The primordial "Must Have" architecture:</strong>
-![IS Architecture](11_IS ARCHITECTURE/EKOVYA_SIGMA360_SAF_POST_WORK_IS_ARCHITECTURE_23Q4_V1.0.jpg)
+![IS Architecture](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/11_IS ARCHITECTURE/EKOVYA_SIGMA360_SAF_POST_WORK_IS_ARCHITECTURE_23Q4_V1.0.jpg)
 
 <h2>Project Main Requirements</h2>
 ![Project Requirements](20_SCREENSHOTS/requirements_review.png)
