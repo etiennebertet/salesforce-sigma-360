@@ -23,21 +23,27 @@ I also participated in the configuration of the Salesforce platform, the design 
 ![IS Architecture](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/11_IS_ARCHITECTURE/EKOVYA_SIGMA360_SAF_POST_WORK_IS_ARCHITECTURE_23Q4_V1.0.jpg)
 
 <h2>Project Main Requirements</h2>
-![Project-Requirements](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/requirements_review.png)
+
+![Project Requirements](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/requirements_review.png)
 
 <h2>Return on Investment calculation</h2>
+
 ![ROI](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/roi.png)
 
 <h2>Planning and Cost Control</h2>
+
 ![Planning and cost control](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/planning_and_cost_control.png)
 
 <h2>Risk Matrix</h2>
+
 ![Risk Matrix](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/risk_matrix.png)
 
 <h2>Progress Agreement Convention</h2>
+
 ![Progress Agreement Convention](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/progress_agreement_convention.png)
 
 <h2>Naming Convention</h2>
+
 ![Naming Convention](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/naming_convention.png)
 
 <h2>Business Processes</h2>
