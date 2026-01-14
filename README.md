@@ -41,6 +41,7 @@ I also participated in the configuration of the Salesforce platform, the design 
 ![Naming Convention](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/naming_convention.png)
 
 <h2>Business Processes</h2>
+
 <strong>Customer Journey</strong>
 ![Customer Journey](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/14_BUSINESS_PROCESSES/S360-SAF-BUSINESS_PROCESS_CUSTOMER_JOURNEY-23-Q4-OPEN.V1.0.png)
 
@@ -58,6 +59,7 @@ I also participated in the configuration of the Salesforce platform, the design 
 
 <h2>Website Mockup</h2>
 The website mockup has been designed with Figma, a Saas graphic design software allowing multiple users to work together at the same time, which is useful for collaborative design tasks.
+
 <strong>Website Architecture</strong>
 ![Website Architecture](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/13_WEBSITE_MOCK_UP/S360-SAF-WEBSITE_MOCK_UP-23Q3-OPEN-V1.0.png)
 
