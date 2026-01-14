@@ -10,7 +10,7 @@ We used OpenProject to track time and cost of each task and make sure we were wi
 I also participated in the configuration of the Salesforce platform, the design of the website and the automation processes connecting both.
 
 <h2>Project organigram</h2>
-(https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/organigramme.png)
+![Project Organigram](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/organigramme.png)
 
 <h2>Information System Architecture</h2>
 <strong>The ultimate "Nice to Have" architecture:</strong>
