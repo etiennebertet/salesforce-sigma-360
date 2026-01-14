@@ -17,8 +17,6 @@ I also participated in the configuration of the Salesforce platform, the design 
 ### Test 1: Raw URL
 ![Test 1](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/20_SCREENSHOTS/organigramme.png)
 
-### Test 2: With raw=true
-![Test 2](https://github.com/etiennebertet/salesforce-sigma-360/blob/main/20_SCREENSHOTS/organigramme.png?raw=true)
 
 <h2>Information System Architecture</h2>
 <strong>The ultimate "Nice to Have" architecture:</strong>
