@@ -23,7 +23,7 @@ I also participated in the configuration of the Salesforce platform, the design 
 ![IS Architecture](https://raw.githubusercontent.com/etiennebertet/salesforce-sigma-360/main/11_IS_ARCHITECTURE/EKOVYA_SIGMA360_SAF_POST_WORK_IS_ARCHITECTURE_23Q4_V1.0.jpg)
 
 <h2>Project Main Requirements</h2>
-![Project Requirements](20_SCREENSHOTS/requirements_review.png)
+![Project-Requirements](20_SCREENSHOTS/requirements_review.png)
 
 <h2>Return on Investment calculation</h2>
 ![ROI](20_SCREENSHOTS/roi.png)
